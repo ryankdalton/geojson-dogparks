@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "parkName": "Hugh Rogers Dog Park",
+        "description": "Open field",
+        "location": "E Second St & Dodger Ln",
+        "neighborhood": "",
+        "city": "Whitefish",
+        "state": "MT",
+        "zip": 59937,
+        "country": "USA",
+        "latitude": 48.40971,
+        "longitude": -114.31029,
+        "hours": "0800 - 2200",
+        "parkingSpots": 50,
+        "size": "5 acres",
+        "fenced": "Yes",
+        "leashed": "No",
+        "smalldog": "Yes",
+        "drinkingWater": "Yes",
+        "amenities": "pond, gazebo, agility course",
+        "rules": "LEASH your dogs when entering and exiting the park area.   DISPLAY valid license and rabies tags. PICK UP your dog's waste. [Municipal Ordinance 00-15]. SUPERVISE your dogs and kids carefully. REMOVE aggressive dogs immediately. LEAVE dogs under four months of age, sick, or in heat at home. KNOW that your liable for injury or damage caused by your dog. HANDLE handle conflicts with respect, grace and good humor.",
+        "contact": "406-863-2470",
+        "website": "http://www.wagparks.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.31029796600342,
+          48.409719058966466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parkName": "Banff off-leash dog park",
+        "description": "Wooded",
+        "location": "Hawk Ave",
+        "neighborhood": "",
+        "city": "Banff",
+        "state": "AB",
+        "zip": "T1L",
+        "country": "Canada",
+        "latitude": 51.19096,
+        "longitude": -115.556,
+        "hours": "0700 - 2000",
+        "parkingSpots": 5,
+        "size": "1.5 acres",
+        "fenced": "Yes",
+        "leashed": "No",
+        "smalldog": "No",
+        "drinkingWater": "No",
+        "amenities": "No",
+        "rules": "Do keep your dogs on a leash when entering and exiting the park. Do ensure your dogs are wearing a valid licence. Do keep your dog(s) under voice and sight control at all times. Do keep to a maximum of three dogs per guardian. To protect all dogs, please do not bring aggressive or sick dogs, dogs in heat, and puppies under five months into the park. Do keep children under 15 years old under adult supervision. Do clean up after your dogs and dispose of their droppings in the waste bin.",
+        "contact": "406-863-2470",
+        "website": "http://banff.ca/facilities/Facility/Details/29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.55600166320802,
+          51.1909635994564
+        ]
+      }
+    }
+  ]
+}
