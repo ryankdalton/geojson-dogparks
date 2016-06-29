@@ -1,4 +1,2 @@
 # geojson-dogparks
-My wife and I recently took a trip to Canada and wanted to find a fenced-in dog park where we could let our puppy run free and wear himself out before the long drive home.  
-
-Inspired  by cageyjames/GeoJSON-Ballparks, we thought it would be great to catalog great dog parks that people could visit while on vacation.
+Inspired  by cageyjames/GeoJSON-Ballparks and the need to find places to walk our dog while on vacation, I started this catalog of dog parks that people could take their dogs to while on vacation.
